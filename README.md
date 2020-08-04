@@ -1,4 +1,4 @@
-# CZ3003- Software-Arena
+# Software-Arena
 
 
 To access the unity project
