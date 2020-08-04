@@ -1,0 +1,4722 @@
+{
+  "Questions": [
+    {
+      "qns_text": "The fundamental notions of software engineering does not account for ?",
+      "level": 0,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software Processes",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software Security",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software Reuse",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software Validation",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of these does not account for software failure?",
+      "stage": 1,
+      "level": 1,
+      "world": 1,
+      "answer": "Increasing Demand",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 1,
+      "answer": "Low expectation",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 1,
+      "answer": "Increasing Supply",
+      "boolen": true,
+      "choice": 2
+
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 1,
+      "answer": "Less reliable and expensive",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "What are attributes of good software ?",
+      "level": 2,
+      "stage": 1,
+      "world": 1,
+      "answer": "Maintainability",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 1,
+      "answer": "Functionality",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 1,
+      "answer": "Development",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 1,
+      "answer": "Maintainability & Functionality",
+      "boolen": true,
+      "choice": 3
+
+
+    },
+
+    {
+      "qns_text": "Which of these software engineering activities are not a part of software processes ?",
+      "level": 3,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software dependence",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software development",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software validation",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 1,
+      "answer": "Software specification",
+      "boolen": true,
+      "choice": 3
+
+    },
+    {
+      "qns_text": "Which of these does not affect different types of software as a whole?",
+      "level": 4,
+      "stage": 1,
+      "world": 1,
+      "answer": "Heterogeneity",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 1,
+      "answer": "Flexibility",
+      "boolen": true,
+      "choice": 1
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 1,
+      "answer": "Business and social change",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 1,
+      "answer": "Security",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "RAD stands for",
+      "level": 0,
+      "stage": 2,
+      "world": 1,
+      "answer": "Relative Application Development",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 1,
+      "answer": "Rapid Application Development",
+      "boolen": true,
+      "choice": 1
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 1,
+      "answer": "Rapid Application Document",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 1,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Which one of the following models is not suitable for accommodating any change?",
+      "level": 1,
+      "stage": 2,
+      "world": 1,
+      "answer": "Build & Fix Model",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 1,
+      "answer": "Prototyping Model",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 1,
+      "answer": "RAD Model",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 1,
+      "answer": "Waterfall Model",
+      "boolen": true,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Which is not one of the types of prototype of Prototyping Model?",
+      "level": 2,
+      "stage": 2,
+      "world": 1,
+      "answer": "Horizontal Prototype",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 1,
+      "answer": "Vertical Prototype",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 1,
+      "answer": "Diagonal Prototype",
+      "boolen": true,
+      "choice": 2
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 1,
+      "answer": "Domain Prototype",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Which one of the following is not a phase of Prototyping Model?",
+      "level": 3,
+      "stage": 2,
+      "world": 1,
+      "answer": "Quick Design",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 1,
+      "answer": "Coding",
+      "boolen": true,
+      "choice": 1
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 1,
+      "answer": "Prototype Refinement",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 1,
+      "answer": "Engineer Product",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "RAD Model has",
+      "level": 4,
+      "stage": 2,
+      "world": 1,
+      "answer": "5 phases",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 1,
+      "answer": "2 phases",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 1,
+      "answer": "3 phases",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 1,
+      "answer": "6 phases",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one of the following is not an Evolutionary Process Model?",
+      "level": 0,
+      "stage": 3,
+      "world": 1,
+      "answer": "WINWIN Spiral Model",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 1,
+      "answer": "Incremental Model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 1,
+      "answer": "Concurrent Development Model",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 1,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The Incremental Model is a result of combination of elements of which two models?",
+      "level": 1,
+      "stage": 3,
+      "world": 1,
+      "answer": "Build & FIX Model & Waterfall Model",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 1,
+      "answer": "Linear Model & RAD Model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 1,
+      "answer": "Linear Model & Prototyping Model",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 1,
+      "answer": "Waterfall Model & RAD Model",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "If you were to create client/server applications, which model would you go for?",
+      "level": 2,
+      "stage": 3,
+      "world": 1,
+      "answer": "WINWIN Spiral Model",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 1,
+      "answer": "Spiral Model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 1,
+      "answer": "Concurrent Model",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 1,
+      "answer": "Incremental Model",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The spiral model has two dimensions namely _____________ and ____________",
+      "level": 3,
+      "stage": 3,
+      "world": 1,
+      "answer": "diagonal, angular",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 1,
+      "answer": "radial, perpendicular",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 1,
+      "answer": "radial, angular",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 1,
+      "answer": "diagonal, perpendicular",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Identify the disadvantage of Spiral Model.",
+      "level": 4,
+      "stage": 3,
+      "world": 1,
+      "answer": "Doesn’t work well for smaller projects",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 1,
+      "answer": "High amount of risk analysis",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 1,
+      "answer": "Strong approval and documentation control",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 1,
+      "answer": "Additional Functionality can be added at a later date",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which two models doesn’t allow defining requirements early in the cycle?",
+      "level": 0,
+      "stage": 4,
+      "world": 1,
+      "answer": "Waterfall & RAD",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 1,
+      "answer": "Prototyping & Spiral",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 1,
+      "answer": "Prototyping & RAD",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 1,
+      "answer": "Waterfall & Spiral",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following life cycle model can be chosen if the development team has less experience on similar projects?",
+      "level": 1,
+      "stage": 4,
+      "world": 1,
+      "answer": "Spiral",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 1,
+      "answer": "Waterfall",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 1,
+      "answer": "RAD",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 1,
+      "answer": "Iterative Enhancement Model",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "A company is developing an advance version of their current software available in the market, what model approach would they prefer ?",
+      "level": 2,
+      "stage": 4,
+      "world": 1,
+      "answer": "RAD",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 1,
+      "answer": "Iterative Enhancement",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 1,
+      "answer": "Both RAD & Iterative Enhancement",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 1,
+      "answer": "Spiral",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Choose the correct option from given below:",
+      "level": 3,
+      "stage": 4,
+      "world": 1,
+      "answer": "Prototyping Model facilitates reusability of components",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 1,
+      "answer": "RAD Model Model facilitates reusability of components",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 1,
+      "answer": "Both RAD & Prototyping Model facilitates reusability of components",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 1,
+      "answer": "None",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Identify a fourth generation language(4GL) from the given below.",
+      "level": 4,
+      "stage": 4,
+      "world": 1,
+      "answer": "FORTRAN",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 1,
+      "answer": "COBOL",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 1,
+      "answer": "Unix shell",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 1,
+      "answer": "C++",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "4GL is an example of ______________ processing.",
+      "level": 0,
+      "stage": 5,
+      "world": 1,
+      "answer": "White Box",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 1,
+      "answer": "Black Box",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 1,
+      "answer": "Functional",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 1,
+      "answer": "Both Black Box & Functional",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The 4GT Model is a package of ______________",
+      "level": 1,
+      "stage": 5,
+      "world": 1,
+      "answer": "CASE Tools",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 1,
+      "answer": "Software tools",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 1,
+      "answer": "Software Programs",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 1,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a type of a 4GL? One originating ______________",
+      "level": 2,
+      "stage": 5,
+      "world": 1,
+      "answer": "on Lisp machine",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 1,
+      "answer": "on report generators",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 1,
+      "answer": "from database query languages",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 1,
+      "answer": "from GUI creators",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following model has a major disadvantage in terms of the coding phase of a software life cycle model ?",
+      "level": 3,
+      "stage": 5,
+      "world": 1,
+      "answer": "Spiral Model",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 1,
+      "answer": "Waterfall Model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 1,
+      "answer": "Rad Model",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 1,
+      "answer": "4GT Model",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one of the following is not a software process quality?",
+      "level": 4,
+      "stage": 5,
+      "world": 1,
+      "answer": "Productivity",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 1,
+      "answer": "Portability",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 1,
+      "answer": "Timeliness",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 1,
+      "answer": "Visibility",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "_____________&_____________ are two kinds of software products.",
+      "level": 0,
+      "stage": 1,
+      "world": 2,
+      "answer": "CAD, CAM",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 2,
+      "answer": "Firmware, Embedded",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 2,
+      "answer": "Generic, Customised",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 2,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one of the following is not an application of embedded software product?",
+      "stage": 1,
+      "level": 1,
+      "world": 2,
+      "answer": "keypad control of a security system",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 2,
+      "answer": "pattern recognition game playing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 2,
+      "answer": "digital function of dashboard display in a car",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 2,
+      "answer": "none of the mentioned",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Purpose of process is to deliver software",
+      "level": 2,
+      "stage": 1,
+      "world": 2,
+      "answer": "in time",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 2,
+      "answer": "with acceptable quality",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 2,
+      "answer": "that is cost efficient",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 2,
+      "answer": "both in time & with acceptable quality",
+      "boolen": true,
+      "choice": 3
+
+
+    },
+
+    {
+      "qns_text": "Which of the following activities of a Generic Process framework provides a feedback report?",
+      "level": 3,
+      "stage": 1,
+      "world": 2,
+      "answer": "Communication",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 2,
+      "answer": "Planning",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 2,
+      "answer": "Modeling & Construction",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 2,
+      "answer": "Deployment",
+      "boolen": true,
+      "choice": 3
+
+    },
+    {
+      "qns_text": "Four types of change are encountered during the support phase.Which one of the following is not one that falls into such category?",
+      "level": 4,
+      "stage": 1,
+      "world": 2,
+      "answer": "Translation",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 2,
+      "answer": "Correction",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 2,
+      "answer": "Adaptation",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 2,
+      "answer": "Prevention",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Choose an internal software quality from given below:",
+      "level": 0,
+      "stage": 2,
+      "world": 2,
+      "answer": "scalability",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 2,
+      "answer": "usability",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 2,
+      "answer": "reusability",
+      "boolen": true,
+      "choice": 2
+
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 2,
+      "answer": "reliability",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "RUP stands for____________ created by a division of ____________",
+      "level": 1,
+      "stage": 2,
+      "world": 2,
+      "answer": "Rational Unified Program, IBM",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 2,
+      "answer": "Rational Unified Process, Infosys",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 2,
+      "answer": "Rational Unified Process, Microsoft",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 2,
+      "answer": "Rational Unified Process, IBM",
+      "boolen": true,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Which phase of the RUP is used to establish a business case for the system ?",
+      "level": 2,
+      "stage": 2,
+      "world": 2,
+      "answer": "Transition",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 2,
+      "answer": "Elaboration",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 2,
+      "answer": "Construction",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 2,
+      "answer": "Inception",
+      "boolen": true,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "Which one of the following is not a fundamental activity for software processes in software engineering ?",
+      "level": 3,
+      "stage": 2,
+      "world": 2,
+      "answer": "Software Verification",
+      "boolen": true,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 2,
+      "answer": "Software Validation",
+      "boolen": false,
+      "choice": 1
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 2,
+      "answer": "Software design and implementation",
+      "boolen": false,
+      "choice": 2
+
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 2,
+      "answer": "Software evolution",
+      "boolen": false,
+      "choice": 3
+
+    },
+
+    {
+      "qns_text": "The longer a fault exists in software",
+      "level": 4,
+      "stage": 2,
+      "world": 2,
+      "answer": "the more tedious its removal becomes",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 2,
+      "answer": "the more costly it is to detect and correct",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 2,
+      "answer": "the less likely it is to be properly corrected",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 2,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Select the option that suits the Manifesto for Agile Software Development",
+      "level": 0,
+      "stage": 3,
+      "world": 2,
+      "answer": "Individuals and interactions",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 2,
+      "answer": "Working software",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 2,
+      "answer": "Customer collaboration",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 2,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Agile Software Development is based on",
+      "level": 1,
+      "stage": 3,
+      "world": 2,
+      "answer": "Incremental Development",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 2,
+      "answer": "Iterative Development",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 2,
+      "answer": "Linear Development",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 2,
+      "answer": "Both Incremental and Iterative Development",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "How many phases are there in Scrum ?",
+      "level": 2,
+      "stage": 3,
+      "world": 2,
+      "answer": "Two",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 2,
+      "answer": "Three",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 2,
+      "answer": "Four",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 2,
+      "answer": "Scrum is an agile method which means it does not have phases",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following does not apply to agility to a software process?",
+      "level": 3,
+      "stage": 3,
+      "world": 2,
+      "answer": "Uses incremental product delivery strategy",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 2,
+      "answer": "Only essential work products are produced",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 2,
+      "answer": "Eliminate the use of project planning and testing",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 2,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which three framework activities are present in Adaptive Software Development(ASD) ?",
+      "level": 4,
+      "stage": 3,
+      "world": 2,
+      "answer": "analysis, design, coding",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 2,
+      "answer": "requirements gathering, adaptive cycle planning, iterative development",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 2,
+      "answer": "speculation, collaboration, learning",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 2,
+      "answer": "all of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "In XP Increments are delivered to customers every _______ weeks.",
+      "level": 0,
+      "stage": 4,
+      "world": 2,
+      "answer": "one",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 2,
+      "answer": "two",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 2,
+      "answer": "three",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 2,
+      "answer": "four",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "User requirements are expressed as __________ in Extreme Programming.",
+      "level": 1,
+      "stage": 4,
+      "world": 2,
+      "answer": "implementation tasks",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 2,
+      "answer": "functionalities",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 2,
+      "answer": "scenarios",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 2,
+      "answer": "none of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Is a customer involved test development and validation in XP ?",
+      "level": 2,
+      "stage": 4,
+      "world": 2,
+      "answer": "yes",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 2,
+      "answer": "no",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 2,
+      "answer": "It may vary from Customer to Customer",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 2,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which four framework activities are found in the Extreme Programming(XP) ?",
+      "level": 3,
+      "stage": 4,
+      "world": 2,
+      "answer": "analysis, design, coding, testing",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 2,
+      "answer": "planning, analysis, design, coding",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 2,
+      "answer": "planning, design, coding, testing",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 2,
+      "answer": "planning, analysis, coding, testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What are the types of requirements ?",
+      "level": 4,
+      "stage": 4,
+      "world": 2,
+      "answer": "Availability",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 2,
+      "answer": "Reliability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 2,
+      "answer": "Usability",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 2,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Select the developer-specific requirement ?",
+      "level": 0,
+      "stage": 5,
+      "world": 2,
+      "answer": "Portability",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 2,
+      "answer": "Maintainability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 2,
+      "answer": "Availability",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 2,
+      "answer": "Both Portability and Maintainability",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one of the following is not a step of requirement engineering?",
+      "level": 1,
+      "stage": 5,
+      "world": 2,
+      "answer": "elicitation",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 2,
+      "answer": "design",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 2,
+      "answer": "analysis",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 2,
+      "answer": "documentation",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "FAST stands for",
+      "level": 2,
+      "stage": 5,
+      "world": 2,
+      "answer": "Functional Application Specification Technique",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 2,
+      "answer": "Fast Application Specification Technique",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 2,
+      "answer": "Facilitated Application Specification Technique",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 2,
+      "answer": "None of the above",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "QFD stands for",
+      "level": 3,
+      "stage": 5,
+      "world": 2,
+      "answer": "quality function design",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 2,
+      "answer": "quality function development",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 2,
+      "answer": "quality function deployment",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 2,
+      "answer": "none of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The user system requirements are the parts of which document ?",
+      "level": 4,
+      "stage": 5,
+      "world": 2,
+      "answer": "SDD",
+      "boolen": false,
+      "choice": 0
+
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 2,
+      "answer": "SRS",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 2,
+      "answer": "DDD",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 2,
+      "answer": "SDR",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a software testing generic characteristics?",
+      "level": 0,
+      "stage": 1,
+      "world": 3,
+      "answer": "Different testing techniques are appropriate at different points in time",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 3,
+      "answer": "Testing is conducted by the developer of the software or an independent test group",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 3,
+      "answer": "Testing and debugging are different activities, but debugging must be accommodated in any testing strategy",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "ITG stands for",
+      "level": 1,
+      "stage": 1,
+      "world": 3,
+      "answer": "instantaneous test group",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 3,
+      "answer": "integration testing group",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 3,
+      "answer": "individual testing group",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 3,
+      "answer": "independent test group",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "By collecting ________ during software testing, it is possible to develop meaningful guidelines to halt the testing process.",
+      "level": 2,
+      "stage": 1,
+      "world": 3,
+      "answer": "Failure intensity",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 3,
+      "answer": "Testing time",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 3,
+      "answer": "Metrics",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 3,
+      "answer": " All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Test cases should uncover errors like",
+      "level": 3,
+      "stage": 1,
+      "world": 3,
+      "answer": "Nonexistent loop termination",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 3,
+      "answer": "Comparison of different data types",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 3,
+      "answer": "Incorrect logical operators or precedence",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 3,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What is normally considered as an adjunct to the coding step",
+      "level": 4,
+      "stage": 1,
+      "world": 3,
+      "answer": "Integration testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 3,
+      "answer": "Unit testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 3,
+      "answer": "Completion of Testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 3,
+      "answer": "Regression Testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The testing in which code is checked",
+      "level": 0,
+      "stage": 2,
+      "world": 3,
+      "answer": "Black box testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 3,
+      "answer": "White box testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 3,
+      "answer": "Red box testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 3,
+      "answer": "Green box testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following term describes testing?",
+      "level": 1,
+      "stage": 2,
+      "world": 3,
+      "answer": "Finding broken code",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 3,
+      "answer": "Evaluating deliverable to find errors",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 3,
+      "answer": "A stage of all projects",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What is Cyclomatic complexity?",
+      "level": 2,
+      "stage": 2,
+      "world": 3,
+      "answer": "Black box testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 3,
+      "answer": "White box testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 3,
+      "answer": "Yellow box testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 3,
+      "answer": "Green box testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Lower and upper limits are present in which chart?",
+      "level": 3,
+      "stage": 2,
+      "world": 3,
+      "answer": "Run chart",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 3,
+      "answer": "Bar chart",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 3,
+      "answer": "Control chart",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Maintenance testing is performed using which methodology?",
+      "level": 4,
+      "stage": 2,
+      "world": 3,
+      "answer": "Retesting",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 3,
+      "answer": "Sanity testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 3,
+      "answer": "Breadth test and depth test",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 3,
+      "answer": "Confirmation testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "White Box techniques are also classified as",
+      "level": 0,
+      "stage": 3,
+      "world": 3,
+      "answer": "Design based testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 3,
+      "answer": "Structural testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 3,
+      "answer": "Error guessing technique",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Exhaustive testing is",
+      "level": 1,
+      "stage": 3,
+      "world": 3,
+      "answer": "always possible",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 3,
+      "answer": "practically possible",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 3,
+      "answer": "impractical but possible",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 3,
+      "answer": "impractical and impossible",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is/are White box technique?",
+      "level": 2,
+      "stage": 3,
+      "world": 3,
+      "answer": "Statement Testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 3,
+      "answer": "Decision Testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 3,
+      "answer": "Condition Coverage",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 3,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Boundary value analysis belong to?",
+      "level": 3,
+      "stage": 3,
+      "world": 3,
+      "answer": "White Box Testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 3,
+      "answer": "Black Box Testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 3,
+      "answer": "White Box & Black Box Testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Alpha testing is done at",
+      "level": 4,
+      "stage": 3,
+      "world": 3,
+      "answer": "Developer’s end",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 3,
+      "answer": "User’s end",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 3,
+      "answer": "Developer’s & User’s end",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one is not a software quality model?",
+      "level": 0,
+      "stage": 4,
+      "world": 3,
+      "answer": "ISO 9000",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 3,
+      "answer": "McCall model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 3,
+      "answer": "Boehm model",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 3,
+      "answer": "ISO 9126",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "How many levels are present in CMM?",
+      "level": 1,
+      "stage": 4,
+      "world": 3,
+      "answer": "three",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 3,
+      "answer": "four",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 3,
+      "answer": "five",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 3,
+      "answer": "six",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which level of CMM is for process management?",
+      "level": 2,
+      "stage": 4,
+      "world": 3,
+      "answer": "Initial",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 3,
+      "answer": "Repeatable",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 3,
+      "answer": "Defined",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 3,
+      "answer": "Optimizing",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "In ISO 9126, time behavior and resource utilization are a part of",
+      "level": 3,
+      "stage": 4,
+      "world": 3,
+      "answer": "maintainability",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 3,
+      "answer": "portability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 3,
+      "answer": "efficiency",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 3,
+      "answer": "usability",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a Probabilistic Model?",
+      "level": 4,
+      "stage": 4,
+      "world": 3,
+      "answer": "Error seeding",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 3,
+      "answer": "NHPP",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 3,
+      "answer": "Input domain",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 3,
+      "answer": "Halstead’s software metric",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Software reliability is defined with respect to",
+      "level": 0,
+      "stage": 5,
+      "world": 3,
+      "answer": "time",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 3,
+      "answer": "bugs",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 3,
+      "answer": "failures",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 3,
+      "answer": "quality",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Failure In Time (FIT) is another way of reporting",
+      "level": 1,
+      "stage": 5,
+      "world": 3,
+      "answer": "MTTR",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 3,
+      "answer": "MTTF",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 3,
+      "answer": "MTSF",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 3,
+      "answer": "MTBF",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "MTTF stands for",
+      "level": 2,
+      "stage": 5,
+      "world": 3,
+      "answer": "Minimum time to failure",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 3,
+      "answer": "Mean time to failure",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 3,
+      "answer": "Maximum time to failure",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 3,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What type of fault remains in the system for some period and then disappears?",
+      "level": 3,
+      "stage": 5,
+      "world": 3,
+      "answer": "Permanent",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 3,
+      "answer": "Transient",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 3,
+      "answer": "Intermittent",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 3,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following approaches are used to achieve reliable systems?",
+      "level": 4,
+      "stage": 5,
+      "world": 3,
+      "answer": "Fault prevention",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 3,
+      "answer": "Fault removal",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 3,
+      "answer": "Fault tolerance",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 3,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a software testing generic characteristics?",
+      "level": 0,
+      "stage": 1,
+      "world": 4,
+      "answer": "Different testing techniques are appropriate at different points in time",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 4,
+      "answer": "Testing is conducted by the developer of the software or an independent test group",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 4,
+      "answer": "Testing and debugging are different activities, but debugging must be accommodated in any testing strategy",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "ITG stands for",
+      "level": 1,
+      "stage": 1,
+      "world": 4,
+      "answer": "instantaneous test group",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 4,
+      "answer": "integration testing group",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 4,
+      "answer": "individual testing group",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 4,
+      "answer": "independent test group",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "By collecting ________ during software testing, it is possible to develop meaningful guidelines to halt the testing process.",
+      "level": 2,
+      "stage": 1,
+      "world": 4,
+      "answer": "Failure intensity",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 4,
+      "answer": "Testing time",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 4,
+      "answer": "Metrics",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 4,
+      "answer": " All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Test cases should uncover errors like",
+      "level": 3,
+      "stage": 1,
+      "world": 4,
+      "answer": "Nonexistent loop termination",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 4,
+      "answer": "Comparison of different data types",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 4,
+      "answer": "Incorrect logical operators or precedence",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 4,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What is normally considered as an adjunct to the coding step",
+      "level": 4,
+      "stage": 1,
+      "world": 4,
+      "answer": "Integration testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 4,
+      "answer": "Unit testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 4,
+      "answer": "Completion of Testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 4,
+      "answer": "Regression Testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The testing in which code is checked",
+      "level": 0,
+      "stage": 2,
+      "world": 4,
+      "answer": "Black box testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 4,
+      "answer": "White box testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 4,
+      "answer": "Red box testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 4,
+      "answer": "Green box testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following term describes testing?",
+      "level": 1,
+      "stage": 2,
+      "world": 4,
+      "answer": "Finding broken code",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 4,
+      "answer": "Evaluating deliverable to find errors",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 4,
+      "answer": "A stage of all projects",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What is Cyclomatic complexity?",
+      "level": 2,
+      "stage": 2,
+      "world": 4,
+      "answer": "Black box testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 4,
+      "answer": "White box testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 4,
+      "answer": "Yellow box testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 4,
+      "answer": "Green box testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Lower and upper limits are present in which chart?",
+      "level": 3,
+      "stage": 2,
+      "world": 4,
+      "answer": "Run chart",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 4,
+      "answer": "Bar chart",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 4,
+      "answer": "Control chart",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Maintenance testing is performed using which methodology?",
+      "level": 4,
+      "stage": 2,
+      "world": 4,
+      "answer": "Retesting",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 4,
+      "answer": "Sanity testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 4,
+      "answer": "Breadth test and depth test",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 4,
+      "answer": "Confirmation testing",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "White Box techniques are also classified as",
+      "level": 0,
+      "stage": 3,
+      "world": 4,
+      "answer": "Design based testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 4,
+      "answer": "Structural testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 4,
+      "answer": "Error guessing technique",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Exhaustive testing is",
+      "level": 1,
+      "stage": 3,
+      "world": 4,
+      "answer": "always possible",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 4,
+      "answer": "practically possible",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 4,
+      "answer": "impractical but possible",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 4,
+      "answer": "impractical and impossible",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is/are White box technique?",
+      "level": 2,
+      "stage": 3,
+      "world": 4,
+      "answer": "Statement Testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 4,
+      "answer": "Decision Testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 4,
+      "answer": "Condition Coverage",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 4,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Boundary value analysis belong to?",
+      "level": 3,
+      "stage": 3,
+      "world": 4,
+      "answer": "White Box Testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 4,
+      "answer": "Black Box Testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 4,
+      "answer": "White Box & Black Box Testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Alpha testing is done at",
+      "level": 4,
+      "stage": 3,
+      "world": 4,
+      "answer": "Developer’s end",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 4,
+      "answer": "User’s end",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 4,
+      "answer": "Developer’s & User’s end",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which one is not a software quality model?",
+      "level": 0,
+      "stage": 4,
+      "world": 4,
+      "answer": "ISO 9000",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 4,
+      "answer": "McCall model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 4,
+      "answer": "Boehm model",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 4,
+      "answer": "ISO 9126",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "How many levels are present in CMM?",
+      "level": 1,
+      "stage": 4,
+      "world": 4,
+      "answer": "three",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 4,
+      "answer": "four",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 4,
+      "answer": "five",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 4,
+      "answer": "six",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which level of CMM is for process management?",
+      "level": 2,
+      "stage": 4,
+      "world": 4,
+      "answer": "Initial",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 4,
+      "answer": "Repeatable",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 4,
+      "answer": "Defined",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 4,
+      "answer": "Optimizing",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "In ISO 9126, time behavior and resource utilization are a part of",
+      "level": 3,
+      "stage": 4,
+      "world": 4,
+      "answer": "maintainability",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 4,
+      "answer": "portability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 4,
+      "answer": "efficiency",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 4,
+      "answer": "usability",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a Probabilistic Model?",
+      "level": 4,
+      "stage": 4,
+      "world": 4,
+      "answer": "Error seeding",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 4,
+      "answer": "NHPP",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 4,
+      "answer": "Input domain",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 4,
+      "answer": "Halstead’s software metric",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Software reliability is defined with respect to",
+      "level": 0,
+      "stage": 5,
+      "world": 4,
+      "answer": "time",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 4,
+      "answer": "bugs",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 4,
+      "answer": "failures",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 4,
+      "answer": "quality",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Failure In Time (FIT) is another way of reporting",
+      "level": 1,
+      "stage": 5,
+      "world": 4,
+      "answer": "MTTR",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 4,
+      "answer": "MTTF",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 4,
+      "answer": "MTSF",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 4,
+      "answer": "MTBF",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "MTTF stands for",
+      "level": 2,
+      "stage": 5,
+      "world": 4,
+      "answer": "Minimum time to failure",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 4,
+      "answer": "Mean time to failure",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 4,
+      "answer": "Maximum time to failure",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 4,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What type of fault remains in the system for some period and then disappears?",
+      "level": 3,
+      "stage": 5,
+      "world": 4,
+      "answer": "Permanent",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 4,
+      "answer": "Transient",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 4,
+      "answer": "Intermittent",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 4,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following approaches are used to achieve reliable systems?",
+      "level": 4,
+      "stage": 5,
+      "world": 4,
+      "answer": "Fault prevention",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 4,
+      "answer": "Fault removal",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 4,
+      "answer": "Fault tolerance",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 4,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+
+    {
+      "qns_text": "Quality Management in software engineering is also known as",
+      "level": 0,
+      "stage": 1,
+      "world": 5,
+      "answer": "SQA",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 5,
+      "answer": "SQM",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 5,
+      "answer": "SQI",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 1,
+      "world": 5,
+      "answer": "SQA and SQM",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Quality also can be looked at in terms of user satisfaction which includes",
+      "level": 1,
+      "stage": 1,
+      "world": 5,
+      "answer": "A compliant product",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 5,
+      "answer": "Good quality output",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 5,
+      "answer": "Delivery within budget and schedule",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 1,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Inspections and testing are what kinds of Quality Costs?",
+      "level": 2,
+      "stage": 1,
+      "world": 5,
+      "answer": "Prevention",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 5,
+      "answer": "Internal Failure",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 5,
+      "answer": "External Failure",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 1,
+      "world": 5,
+      "answer": "Appraisal",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Non-conformance to software requirements is known as",
+      "level": 3,
+      "stage": 1,
+      "world": 5,
+      "answer": "Software availability",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 5,
+      "answer": "Software reliability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 5,
+      "answer": "Software failure",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 1,
+      "world": 5,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a core step of Six Sigma?",
+      "level": 4,
+      "stage": 1,
+      "world": 5,
+      "answer": "Define",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 5,
+      "answer": "Control",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 5,
+      "answer": "Measure",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 1,
+      "world": 5,
+      "answer": "Analyse",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "SCM stands for",
+      "level": 0,
+      "stage": 2,
+      "world": 5,
+      "answer": "Software Control Management",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 5,
+      "answer": "Software Configuration Management",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 5,
+      "answer": "Software Concept Management",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 2,
+      "world": 5,
+      "answer": "None of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "When code is made available to others, it goes in a/an",
+      "level": 1,
+      "stage": 2,
+      "world": 5,
+      "answer": "hard drive",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 5,
+      "answer": "access-controlled library",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 5,
+      "answer": "servers",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 2,
+      "world": 5,
+      "answer": "access control",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a main phase in Configuration Management (CM) Process?",
+      "level": 2,
+      "stage": 2,
+      "world": 5,
+      "answer": "CM Planning",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 5,
+      "answer": "Executing the CM process",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 5,
+      "answer": "CM audits",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 2,
+      "world": 5,
+      "answer": "None of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a change management process?",
+      "level": 3,
+      "stage": 2,
+      "world": 5,
+      "answer": "Log the changes",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 5,
+      "answer": "Estimate impact on effort and schedule",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 5,
+      "answer": "Review impact with stakeholders",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 2,
+      "world": 5,
+      "answer": "None of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "How are baselines verified?",
+      "level": 4,
+      "stage": 2,
+      "world": 5,
+      "answer": "By reviews",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 5,
+      "answer": "By inspections",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 5,
+      "answer": "By testing of code",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 2,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Why is software difficult to build ?",
+      "level": 0,
+      "stage": 3,
+      "world": 5,
+      "answer": "Controlled changes",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 5,
+      "answer": "Lack of reusability",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 5,
+      "answer": "Lack of monitoring",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 3,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a conflict in software development team?",
+      "level": 1,
+      "stage": 3,
+      "world": 5,
+      "answer": "Simultaneous updates",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 5,
+      "answer": "Shared and common code",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 5,
+      "answer": "Versions",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 3,
+      "world": 5,
+      "answer": "Graphics issues",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a typical environment in communication facilitation ?",
+      "level": 2,
+      "stage": 3,
+      "world": 5,
+      "answer": "Multiple teams",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 5,
+      "answer": "Multiple user groups",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 5,
+      "answer": "Multiple fests",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 3,
+      "world": 5,
+      "answer": "Multiple locations",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is a software process ?",
+      "level": 3,
+      "stage": 3,
+      "world": 5,
+      "answer": "Analysis and design",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 5,
+      "answer": "Configuration and management",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 5,
+      "answer": "Business modeling",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 3,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a part of Software Configuration Management Basics?",
+      "level": 4,
+      "stage": 3,
+      "world": 5,
+      "answer": "Identification",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 5,
+      "answer": "Version",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 5,
+      "answer": "Auditing and Reviewing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 3,
+      "world": 5,
+      "answer": "Status Accounting",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "What is testing process’ first goal?",
+      "level": 0,
+      "stage": 4,
+      "world": 5,
+      "answer": "Bug prevention",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 5,
+      "answer": "Testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 5,
+      "answer": "Execution",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 4,
+      "world": 5,
+      "answer": "Analyses",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Software mistakes during coding are known as",
+      "level": 1,
+      "stage": 4,
+      "world": 5,
+      "answer": "errors",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 5,
+      "answer": "failures",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 5,
+      "answer": "bugs",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 4,
+      "world": 5,
+      "answer": "defects",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Name an evaluation technique to assess the quality of test cases.",
+      "level": 2,
+      "stage": 4,
+      "world": 5,
+      "answer": "Mutation analysis",
+      "boolen": true,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 5,
+      "answer": "Validation",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 5,
+      "answer": "Verification",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 4,
+      "world": 5,
+      "answer": "Performance analysis",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Test should be conducted for every possible",
+      "level": 3,
+      "stage": 4,
+      "world": 5,
+      "answer": "data",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 5,
+      "answer": "case",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 5,
+      "answer": "variable",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 4,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is not a part of bug report?",
+      "level": 4,
+      "stage": 4,
+      "world": 5,
+      "answer": "Test case",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 5,
+      "answer": "Output",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 5,
+      "answer": "Software Version",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 4,
+      "world": 5,
+      "answer": "LOC",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "The construction of object-oriented software begins with the creation of",
+      "level": 0,
+      "stage": 5,
+      "world": 5,
+      "answer": "design model",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 5,
+      "answer": "analysis model",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 5,
+      "answer": "code levels",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 0,
+      "stage": 5,
+      "world": 5,
+      "answer": "both design and analysis model",
+      "boolen": true,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which testing integrates the set of classes required to respond to one input or event for the system?",
+      "level": 1,
+      "stage": 5,
+      "world": 5,
+      "answer": "cluster testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 5,
+      "answer": "thread-based testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 5,
+      "answer": "use-based testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 1,
+      "stage": 5,
+      "world": 5,
+      "answer": "none of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "__________ methods can be used to drive validations tests",
+      "level": 2,
+      "stage": 5,
+      "world": 5,
+      "answer": "Yellow-box testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 5,
+      "answer": "Black-box testing",
+      "boolen": true,
+      "choice": 1
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 5,
+      "answer": "White-box testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 2,
+      "stage": 5,
+      "world": 5,
+      "answer": "All of the mentioned",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following is a part of testing OO code?",
+      "level": 3,
+      "stage": 5,
+      "world": 5,
+      "answer": "Validation tests",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 5,
+      "answer": "Integration tests",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 5,
+      "answer": "Class tests",
+      "boolen": true,
+      "choice": 2
+    },
+
+    {
+      "level": 3,
+      "stage": 5,
+      "world": 5,
+      "answer": "System tests",
+      "boolen": false,
+      "choice": 3
+    },
+
+    {
+      "qns_text": "Which of the following testing types is not a part of system testing?",
+      "level": 4,
+      "stage": 5,
+      "world": 5,
+      "answer": "Recovery testing",
+      "boolen": false,
+      "choice": 0
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 5,
+      "answer": "Stress testing",
+      "boolen": false,
+      "choice": 1
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 5,
+      "answer": "System testing",
+      "boolen": false,
+      "choice": 2
+    },
+
+    {
+      "level": 4,
+      "stage": 5,
+      "world": 5,
+      "answer": "Random testing",
+      "boolen": true,
+      "choice": 3
+    }
+  ]
+
+}

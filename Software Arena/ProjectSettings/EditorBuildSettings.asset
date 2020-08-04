@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Login Page.unity
+    guid: 076b137cd6273614ca7e2fca13ab72fd
+  - enabled: 1
+    path: Assets/_Scenes/Register Page.unity
+    guid: b689320fc9bb64c47a40431d104ac084
+  - enabled: 1
+    path: Assets/_Scenes/Main Menu.unity
+    guid: 5eb3556ae81b7e645a32f8a9409bd881
+  - enabled: 1
+    path: Assets/_Scenes/teacher_menu.unity
+    guid: 590d3f4140c5e6c42b09f2513eef7911
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Worldmap.unity
+    guid: 369947b4c5b95d54cb787c57f959d515
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Bronze  World.unity
+    guid: 8d6b1d3beb832634a9caf96dbfed6987
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Diamond World.unity
+    guid: 4524d394932fb0546a04cef7bc7b4f68
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Gold World.unity
+    guid: 5b5ff43a3101b824aabf1caace6be69d
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Platinum World.unity
+    guid: 5e3af8c44f2a0614ca54464b6cb52b4c
+  - enabled: 1
+    path: Assets/_Scenes/Worlds/Silver World.unity
+    guid: 3da9e695e479c5a41b4903836ad08f9c
+  - enabled: 1
+    path: Assets/_Scenes/Manage Avatar.unity
+    guid: f30fd41e2a95cfa469c244372b6edff2
+  - enabled: 1
+    path: Assets/_Scenes/Play Level.unity
+    guid: 7bd967677699af344999050945df8c41
+  - enabled: 1
+    path: Assets/_Scenes/dummy scene.unity
+    guid: 2bd07e6376aa6624a9be0c297eed3282
+  - enabled: 1
+    path: Assets/_Scenes/LeaderBoard.unity
+    guid: 517845c9a3c5a5640bb6c2b014f6473f
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/CMenuScreen.unity
+    guid: c01566cb54058b244b8865f9aad6e2d8
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/challengeApprovePage.unity
+    guid: 33ccd75566ccb9f49a394fc1ed6e074e
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/challengeCreate.unity
+    guid: abf127d3fa5a7724db4295d5d405fb79
+  - enabled: 1
+    path: Assets/_Scenes/Multiplayer/Game.unity
+    guid: 3b325dbde8e947a4186799bb76fc0a45
+  - enabled: 1
+    path: Assets/_Scenes/Multiplayer/MenuScreen.unity
+    guid: d40d446321590ad4bb1b90ede92efe3f
+  - enabled: 1
+    path: Assets/_Scenes/Multiplayer/Multiplayer_results.unity
+    guid: 239f97665fb295744b89b42a460c1b3f
+  - enabled: 1
+    path: Assets/_Scenes/Multiplayer/Persistent.unity
+    guid: dddf5e43a99ced34b9429d22aa25a2c3
+  - enabled: 1
+    path: Assets/_Scenes/Multiplayer/WaitingRoom.unity
+    guid: 152dfae0115f45f488acdc1d8c789d2f
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/CPersistent.unity
+    guid: 0d14efd185b7340afbde4f7d1c1bedb2
+  - enabled: 1
+    path: Assets/_Scenes/report/reportDetails.unity
+    guid: d142d32f574645942b054bc28eaa461d
+  - enabled: 1
+    path: Assets/_Scenes/report/reportList.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/PlayChallenge.unity
+    guid: d298852da89c17e41b73d5ff22459a08
+  - enabled: 1
+    path: Assets/_Scenes/Challenge Mode/ChallengeGroup.unity
+    guid: 0df2346b65d727c46a21036ac7cc1cae
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
